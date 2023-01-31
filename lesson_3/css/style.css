@@ -1,0 +1,39 @@
+
+@import url("reset.css");
+
+
+
+
+div {
+	 color: red;
+}
+
+div. text {
+	color: #000;
+}
+
+#foto {
+	color: blue; 
+}
+
+.text p.take{
+	color: blue;
+}
+
+.lesson,
+.lesson_3 {
+	color: green;
+}
+
+.lesson.lesson_3 {
+	color: blue;
+}
+
+.text>p {
+	 color: red; 
+}
+
+.text ~ p {
+	 color: black; 
+}
+
