@@ -1,0 +1,73 @@
+
+@import url("reset.css");
+
+@import url(https://fonts.googleapis.com/css?family=Solitreo:regular&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Explora:regular&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Zen+Antique:regular&display=swap);
+
+@font-face {
+    font-family: 'CircularStd';
+    src: url('../fonts/CircularStd-Book.woff2') format('woff2'),
+        url('../fonts/CircularStd-Book.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'CircularStd';
+    src: url('../fonts/CircularStd-Bold.woff2') format('woff2'),
+        url('../fonts/CircularStd-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@300;500;700&family=Poppins:wght@300;500;600&display=swap" rel="stylesheet">
+
+body {
+	font-family: "CircularStd";
+	font-weight: 500;
+}
+
+.title {
+	font-family: "Solitreo", cursive;
+    font-weight: 900;
+    color: green;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+.text_2 {
+    font-family: "Oswald";
+    font-size: 10px;
+    font-style: italic;
+    font-weight: 700;
+    color: blue;
+    text-align: center;
+    text-shadow: 2px 2px 5px #000;
+    text-transform: capitalize;
+    line-height: 2;
+    text-indent: 40px;
+    letter-spacing: 7px;
+    word-spacing: 8px;
+}
+
+.text_3 {
+    font-family: monospace;
+    font-size: 50px;
+    font-style: obligue;
+    font-weight: 300;
+    color: rgba (99, 168, 51, 0,7);
+    text-align: justify;
+    text-shadow: 7px 3px 2px #000;
+    text-indent: 70px;
+    letter-spacing: 50px;
+    word-spacing: normal;
+    
+}
+
+
+
