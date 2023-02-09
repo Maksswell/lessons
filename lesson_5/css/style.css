@@ -1,0 +1,86 @@
+
+@import url("reset.css");
+
+
+
+@import url(https://fonts.googleapis.com/css?family=Poppins:300,500,700&display=swap);
+
+body {
+	font-family: "Poppins";
+}
+
+main {
+	margin: 0 auto;
+}
+
+
+
+.block_text h2 {
+	font-size: 25px;
+	font-weight: 700;
+	line-height: 40px;
+	max-width: 400px;
+	margin-left: 312px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.block_text p {
+	font-size: 14px;
+	font-weight: 300;
+	line-height: 25px;
+	max-width: 816px;
+	color: #6C757D;
+	margin-left: 312px;
+	margin-bottom: 80px;
+}
+
+.images1 {
+	max-width: 1240px;
+	margin-left: 100px;
+	margin-bottom: 80px;
+}
+
+.block_text2 h2 {
+	font-size: 25px;
+	font-weight: 700;
+	line-height: 40px;
+	max-width: 605px;
+	margin-left: 312px;
+	margin-bottom: 40px;
+}
+
+.block_text2 p {
+	font-size: 14px;
+	font-weight: 300;
+	line-height: 25px;
+	max-width: 816px;
+	color: #6C757D;
+	margin-left: 312px;
+	margin-bottom: 80px;
+}
+
+.images2 {
+	margin-left: 100px;
+	margin-bottom: 80px;
+}
+
+.girls.ocean {
+	max-width: 806px;
+}
+
+.girls {
+	margin-right: 30px;
+}
+
+
+.block_text3 p {
+	font-size: 14px;
+	font-weight: 300;
+	line-height: 25px;
+	max-width: 816px;
+	color: #6C757D;
+	margin-left: 312px;
+	margin-bottom: 40px;
+}
+
